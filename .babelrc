@@ -1,0 +1,4 @@
+// This is used by babel-node and babel-loader to compile server side js
+{
+  "presets": ["es2016", "es2015", "stage-1"]
+}
